@@ -9,8 +9,8 @@ This folder contains all the files used in the project uTalk, iShop. The library
 
 1. html - which contains all the folders I used to create the website.
 2. images - which contains all the images I used on the site.
-3. members - which is a mock folder of the members file on the server. This file updates each time a user creates an account. The user is given a unique ID
-			 which is also the name of the users folder.
+3. members - which is a mock folder of the members file on the server. This file updates each time a user creates an account.
+			 The user is given a unique ID which is also the name of the users folder.
 4. scripts - which contains all the scripts I used. It currently contains only the log_out script (to log the user out of the site).
 5. style - for the style of the site.
 6. voicexml - which contains all the code for the voice recognition and voice synthesis program.
